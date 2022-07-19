@@ -29,10 +29,12 @@ class ViewController: UIViewController {
     
     
     @IBAction func resetButtonTapped(_ sender: UIButton) {
+        
     }
     
     
     @IBAction func startButtonTapped(_ sender: UIButton) {
+        
     }
     
 }
