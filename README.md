@@ -3,7 +3,7 @@
 ## ⭐️ 앱 소개
 - 시간초를 Slider로 설정하고 Start버튼을 눌러 시간을 감소하면서 알람을 해주는 앱
 ## ⭐️ 앱 화면
-<img width="300px" height="600px" src="https://user-images.githubusercontent.com/70146658/179678970-5b4757f7-d825-408d-8b22-9b5f17f40d6a.gif"/>
+<img width="300px" height="600px" src="https://user-images.githubusercontent.com/70146658/179695227-a75970e9-12dc-4b63-8452-510644b5d51f.gif"/>
 
 
 
